@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK
+END
+ZBarHelpController.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
+END
+ZBarImageScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+END
+ZBarReaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+END
+zbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/zbar.h
+END
+ZBarReaderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+END
+ZBarSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+END
+ZBarImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+END
+ZBarSymbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+END
+ZBarCaptureReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+END
+ZBarReaderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+END
+ZBarCameraSimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/biznest-006/!svn/ver/7247/CNITPortal/IOS/CampusInformation/trunk/src/TaopingForIOS/Taoping/Library/ZBarSDK/Headers/ZBarSDK/ZBarCameraSimulator.h
+END
